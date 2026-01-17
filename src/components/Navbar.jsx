@@ -3,7 +3,7 @@ import Container from './Container'
 
 function Navbar() {
   return (
-    <div className='bg-gray-300 fixed top-0 left-0 w-full'>
+    <div className='top-0 left-0 w-full fixed'>
       <Container>
         <div className='flex justify-between items-center bg-gray-400 py-[20px] px-[100px] rounded-b-lg'>
           <ul className='flex gap-20'>

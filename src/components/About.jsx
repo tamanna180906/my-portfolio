@@ -9,7 +9,7 @@ function About() {
         <div className='py-[150px]'>
             <Container>
                 <div className='w-[70%] mx-auto '>
-                    <h2 className='text-center text-[50px] font-rc font-bold '>About Me</h2>
+                    <h2 className='text-center text-[50px] font-rc font-bold'>About Me</h2>
                     <p className='text-center text-[20px] font-rc '>
                         I’m a Frontend Developer with experience in creating clean and responsive web interfaces. I
                         focus on writing structured, maintainable code and building designs that are simple, intuitive,

@@ -4,7 +4,7 @@ import pro3 from "../assets/pro3.jpg"
 
 function Banner() {
   return (
-    <div className='bg-gray-300 pt-[200px] pb-[100px]'>
+    <div className='bg-gray-100 pt-[200px] pb-[100px]'>
       <Container>
         <div className='flex justify-between'>
           <div className='w-[70%] pt-10'>

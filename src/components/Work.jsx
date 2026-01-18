@@ -13,9 +13,19 @@ function Work() {
             These projects reflect my learning journey and my focus on building clean, responsive, and user-friendly interfaces.
           </p>
         </div>
-        <div className='pt-[50px]'>
-          <div className='w-[50%] bg-gray-100'>
-            <img src={ecom1} className='rounded-2xl mb-10'></img>
+        <div className='pt-[50px] flex justify-between'>
+          <div className='w-[48%] p-10 bg-gray-100 rounded-2xl'>
+            <h2 className='font-rc text-[20px] font-bold'>OREBI – E-Commerce Website UI</h2>
+            <div className='bg-white mt-2'>
+              <img src={ecom1} className='rounded-2xl px-10'></img>
+            </div>
+            <p className='pt-3 text-[14px] font-rc '>A responsive e-commerce website design inspired by modern online stores, focusing on clean layout,
+              structured UI, and user-friendly navigation.</p>
+            <p className='pt-4 text-[16px] font-rc '>Figma • HTML • Tailwind CSS • React</p>
+            <div className="flex gap-3 mt-4">
+              <a className="btn">Live</a>
+              <a className="btn">Code</a>
+            </div>
           </div>
         </div>
       </Container>

@@ -23,8 +23,8 @@ function Work() {
               structured UI, and user-friendly navigation.</p>
             <p className='pt-4 text-[16px] font-rc '>Figma • HTML • Tailwind CSS • React</p>
             <div className="flex gap-3 mt-4">
-              <a className="btn">Live</a>
-              <a className="btn">Code</a>
+              <a href="https://sign-log.netlify.app/" className="btn pt-[8px] pb-[11px] px-[25px] border border-gray-400 bg-gray-200 rounded ">Live Demo</a>
+              <a href='https://github.com/tamanna180906/last-project' className="btn pt-[8px] pb-[11px] px-[25px] border border-gray-400  rounded ">Source Code</a>
             </div>
           </div>
         </div>

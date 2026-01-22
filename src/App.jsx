@@ -4,6 +4,7 @@ import Navbar from './components/Navbar'
 import Banner from './components/Banner'
 import Work from './components/Work'
 import About from './components/About'
+import Contact from './components/Contact'
 
 function App() {
 
@@ -13,6 +14,7 @@ function App() {
      <Banner/>
      <About/>
      <Work/>
+     <Contact/>
     </>
   )
 }

@@ -19,13 +19,13 @@ function Contact() {
                             <p className='font-rc text-[18px]'>tamannahasannavila@gmail.com</p>
                         </div>
                         <div className='py-[20px] w-[60%] flex gap-4 border-y border-gray-300'>
-                            <a href=''>
+                            <a href='https://github.com/tamanna180906'>
                                 <FaGithub className='text-[30px]' />
                             </a>
-                            <a href=''>
+                            <a href='https://www.linkedin.com/in/tamanna-hasan-navila-4133203a8/'>
                                 <FaLinkedin className='text-[30px]' />
                             </a>
-                            <a href=''>
+                            <a href='https://www.instagram.com/tamannahasannavila?igsh=MW5yc3d4eHI4ZGFjYw%3D%3D'>
                                 <FaSquareInstagram className='text-[30px]' />
                             </a>
                         </div>

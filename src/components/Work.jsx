@@ -42,7 +42,7 @@ function Work() {
               <a className="btn pt-[6px] pb-[7px] px-[25px] border border-gray-400 rounded font-rc text-[12px] font-bold">Source Code</a>
             </div>
           </div>
-          <div className='lg:w-[32%] md:w-[48%] mt-5 lg:mt-0 p-5 md:mx-auto bg-gray-100 border border-gray-300  rounded-2xl'>
+          <div className='lg:w-[32%] md:w-[48%] mt-5 lg:mt-0 p-5 md:mx-auto lg:mx-0 bg-gray-100 border border-gray-300 rounded-2xl'>
             <h2 className='font-rc text-[16px] font-bold'>Startup Agency Website Design</h2>
             <div className='bg-white mt-2'>
               <img src={cerryf} className='rounded-2xl px-5'></img>

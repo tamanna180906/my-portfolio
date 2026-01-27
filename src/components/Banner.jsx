@@ -15,7 +15,7 @@ function Banner() {
               responsive, and user-friendly, aiming to provide a simple and smooth experience for everyone who visits.</p>
           </div>
           <div className='mt-8 lg:mt-0 flex justify-center lg:justify-end'>
-            <div className='md:h-[250px] md:w-[250px] lg:h-[400px] lg:w-[400px] bg-amber-200 rounded-full overflow-hidden lg:block md:block hidden'>
+            <div className='md:h-[250px] md:w-[250px] lg:h-[400px] lg:w-[400px] rounded-full overflow-hidden lg:block md:block hidden'>
               <img className='object-cover h-full w-full' src={pro3} alt="Tamanna" />
             </div>
           </div>
